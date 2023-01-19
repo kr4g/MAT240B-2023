@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/ryanmillett/MAT240B/MAT240B-2023-UNIX/triangle.cpp" "CMakeFiles/triangle.dir/triangle.cpp.o" "gcc" "CMakeFiles/triangle.dir/triangle.cpp.o.d"
+  "/Users/ryanmillett/MAT240B/MAT240B-2023/triangle.cpp" "CMakeFiles/triangle.dir/triangle.cpp.o" "gcc" "CMakeFiles/triangle.dir/triangle.cpp.o.d"
   )
 
 # Targets to which this target links.

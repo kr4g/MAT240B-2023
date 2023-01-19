@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/ryanmillett/MAT240B/MAT240B-2023-UNIX/triangle-sweep.cpp" "CMakeFiles/triangle-sweep.dir/triangle-sweep.cpp.o" "gcc" "CMakeFiles/triangle-sweep.dir/triangle-sweep.cpp.o.d"
+  "/Users/ryanmillett/MAT240B/MAT240B-2023/triangle-sweep.cpp" "CMakeFiles/triangle-sweep.dir/triangle-sweep.cpp.o" "gcc" "CMakeFiles/triangle-sweep.dir/triangle-sweep.cpp.o.d"
   )
 
 # Targets to which this target links.

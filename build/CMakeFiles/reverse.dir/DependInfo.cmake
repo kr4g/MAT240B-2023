@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/ryanmillett/MAT240B/MAT240B-2023-UNIX/reverse.cpp" "CMakeFiles/reverse.dir/reverse.cpp.o" "gcc" "CMakeFiles/reverse.dir/reverse.cpp.o.d"
+  "/Users/ryanmillett/MAT240B/MAT240B-2023/reverse.cpp" "CMakeFiles/reverse.dir/reverse.cpp.o" "gcc" "CMakeFiles/reverse.dir/reverse.cpp.o.d"
   )
 
 # Targets to which this target links.

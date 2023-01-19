@@ -1,5 +1,5 @@
 CMakeFiles/wav-read.dir/wav-read.cpp.o: \
-  /Users/ryanmillett/MAT240B/MAT240B-2023-UNIX/wav-read.cpp \
+  /Users/ryanmillett/MAT240B/MAT240B-2023/wav-read.cpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/iostream \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/__config \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/__config_site \
@@ -415,4 +415,4 @@ CMakeFiles/wav-read.dir/wav-read.cpp.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_fsfilcnt_t.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk/usr/include/_types/_nl_item.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/__bsd_locale_defaults.h \
-  /Users/ryanmillett/MAT240B/MAT240B-2023-UNIX/dr_wav.h
+  /Users/ryanmillett/MAT240B/MAT240B-2023/dr_wav.h

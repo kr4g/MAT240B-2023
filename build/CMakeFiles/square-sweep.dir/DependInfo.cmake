@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/ryanmillett/MAT240B/MAT240B-2023-UNIX/square-sweep.cpp" "CMakeFiles/square-sweep.dir/square-sweep.cpp.o" "gcc" "CMakeFiles/square-sweep.dir/square-sweep.cpp.o.d"
+  "/Users/ryanmillett/MAT240B/MAT240B-2023/square-sweep.cpp" "CMakeFiles/square-sweep.dir/square-sweep.cpp.o" "gcc" "CMakeFiles/square-sweep.dir/square-sweep.cpp.o.d"
   )
 
 # Targets to which this target links.

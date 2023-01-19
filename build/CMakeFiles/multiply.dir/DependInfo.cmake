@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/ryanmillett/MAT240B/MAT240B-2023-UNIX/multiply.cpp" "CMakeFiles/multiply.dir/multiply.cpp.o" "gcc" "CMakeFiles/multiply.dir/multiply.cpp.o.d"
+  "/Users/ryanmillett/MAT240B/MAT240B-2023/multiply.cpp" "CMakeFiles/multiply.dir/multiply.cpp.o" "gcc" "CMakeFiles/multiply.dir/multiply.cpp.o.d"
   )
 
 # Targets to which this target links.

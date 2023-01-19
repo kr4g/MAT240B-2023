@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/ryanmillett/MAT240B/MAT240B-2023-UNIX/noise.cpp" "CMakeFiles/noise.dir/noise.cpp.o" "gcc" "CMakeFiles/noise.dir/noise.cpp.o.d"
+  "/Users/ryanmillett/MAT240B/MAT240B-2023/noise.cpp" "CMakeFiles/noise.dir/noise.cpp.o" "gcc" "CMakeFiles/noise.dir/noise.cpp.o.d"
   )
 
 # Targets to which this target links.

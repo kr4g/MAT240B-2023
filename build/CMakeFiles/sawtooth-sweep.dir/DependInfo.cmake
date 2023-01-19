@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/ryanmillett/MAT240B/MAT240B-2023-UNIX/sawtooth-sweep.cpp" "CMakeFiles/sawtooth-sweep.dir/sawtooth-sweep.cpp.o" "gcc" "CMakeFiles/sawtooth-sweep.dir/sawtooth-sweep.cpp.o.d"
+  "/Users/ryanmillett/MAT240B/MAT240B-2023/sawtooth-sweep.cpp" "CMakeFiles/sawtooth-sweep.dir/sawtooth-sweep.cpp.o" "gcc" "CMakeFiles/sawtooth-sweep.dir/sawtooth-sweep.cpp.o.d"
   )
 
 # Targets to which this target links.

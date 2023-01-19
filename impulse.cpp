@@ -20,9 +20,10 @@ int main(int argc, char* argv[]) {
   for (int i = 0; i < duration * SAMPLE_RATE; ++i) {
     double v = 0.0;
     for (int n = 1; n * frequency <= N; ++n) {
-        v += sin(n * 2 * pi * phase * frequency);
+        // v += sin(n * 2 * pi * phase * frequency);
+        v += sin(n * phase); // BROKEN
     }
-    v *= c;
+    // v *= c;
     mono(v);
 
     // phase += 2 * pi * frequency / SAMPLE_RATE;

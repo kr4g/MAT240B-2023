@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/ryanmillett/MAT240B/MAT240B-2023-UNIX/square.cpp" "CMakeFiles/square.dir/square.cpp.o" "gcc" "CMakeFiles/square.dir/square.cpp.o.d"
+  "/Users/ryanmillett/MAT240B/MAT240B-2023/square.cpp" "CMakeFiles/square.dir/square.cpp.o" "gcc" "CMakeFiles/square.dir/square.cpp.o.d"
   )
 
 # Targets to which this target links.

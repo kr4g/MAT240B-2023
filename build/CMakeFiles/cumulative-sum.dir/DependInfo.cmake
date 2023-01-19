@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/ryanmillett/MAT240B/MAT240B-2023-UNIX/cumulative-sum.cpp" "CMakeFiles/cumulative-sum.dir/cumulative-sum.cpp.o" "gcc" "CMakeFiles/cumulative-sum.dir/cumulative-sum.cpp.o.d"
+  "/Users/ryanmillett/MAT240B/MAT240B-2023/cumulative-sum.cpp" "CMakeFiles/cumulative-sum.dir/cumulative-sum.cpp.o" "gcc" "CMakeFiles/cumulative-sum.dir/cumulative-sum.cpp.o.d"
   )
 
 # Targets to which this target links.
