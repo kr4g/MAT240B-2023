@@ -2,8 +2,6 @@
 
 #include "everything.h"  // mono
 
-const double N = 0.8 * (SAMPLE_RATE / 2.0); // 80% of the Nyquist
-
 int main(int argc, char* argv[]) {
   double frequency = 440.0;
   if (argc > 1) {

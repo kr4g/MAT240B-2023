@@ -9,6 +9,8 @@ const double pi =
 const double e =
     2.718281828459045235360287471352662497757247093699959574966967627724076630353;
 
+const double N = 0.8 * (SAMPLE_RATE / 2.0);  // 80% of the Nyquist limit
+
 double mtof(double m) { return 440.0 * pow(2.0, (m - 69.0) / 12.0); }
 double ftom(double f) { return 12.0 * log2(f / 440.0) + 69.0; }
 double dbtoa(double db) { return pow(10.0, db / 20.0); }

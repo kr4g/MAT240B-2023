@@ -1,6 +1,6 @@
 #include "everything.h"
 
-const double N = 0.8 * (SAMPLE_RATE / 2.0); // 80% of the Nyquist
+// const double N = 0.8 * (SAMPLE_RATE / 2.0); // 80% of the Nyquist
 
 int main(int argc, char* argv[]) {
   double phase = 0;
